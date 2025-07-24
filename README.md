@@ -25,17 +25,13 @@ A simple yet functional To-Do list application built using Django. This project 
 ---
 
 ## 🚀 Live Demo
+https://to-do-app-django-19hw.onrender.com/
 
-> If deployed, paste your Render/Heroku app link here  
-`https://your-app-name.onrender.com/`
-
----
 
 ## 🧰 Tech Stack
 
 - **Backend:** Django (Python)
 - **Frontend:** HTML, CSS, Bootstrap
-- **Database:** SQLite (can be replaced with PostgreSQL)
 - **Deployment:** Render (or Heroku)
 
 ---
