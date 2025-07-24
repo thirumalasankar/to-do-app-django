@@ -1,4 +1,4 @@
-<img width="271" height="627" alt="image" src="https://github.com/user-attachments/assets/6503cab1-e5fb-4ccf-8160-7d0997d09d3f" /># 📝 Django To-Do App
+# 📝 Django To-Do App
 
 A simple yet functional To-Do list application built using Django. This project demonstrates core Django concepts including user authentication, CRUD operations, and a clean UI for task management.
 
