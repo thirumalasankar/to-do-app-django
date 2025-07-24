@@ -1,4 +1,4 @@
-# 📝 Django To-Do App
+<img width="271" height="627" alt="image" src="https://github.com/user-attachments/assets/6503cab1-e5fb-4ccf-8160-7d0997d09d3f" /># 📝 Django To-Do App
 
 A simple yet functional To-Do list application built using Django. This project demonstrates core Django concepts including user authentication, CRUD operations, and a clean UI for task management.
 
@@ -19,7 +19,8 @@ A simple yet functional To-Do list application built using Django. This project 
 
 ## 📷 Screenshots
 
-> You can add your screenshots here later (optional)
+> You can add your screenshots here later (optional
+
 
 ---
 
@@ -41,28 +42,7 @@ A simple yet functional To-Do list application built using Django. This project 
 
 ## 📂 Project Structure
 
-to-do-app-django/
-├── todopr/
-│ ├── migrations/
-│ ├── static/
-│ ├── templates/
-│ ├── init.py
-│ ├── admin.py
-│ ├── apps.py
-│ ├── models.py
-│ ├── tests.py
-│ ├── urls.py
-│ ├── views.py
-│ └── ...
-├── todopr/
-│ ├── init.py
-│ ├── asgi.py
-│ ├── settings.py
-│ ├── urls.py
-│ ├── wsgi.py
-├── manage.py
-├── requirements.txt
-└── README.md
+<img width="271" height="627" alt="image" src="https://github.com/user-attachments/assets/3d5030a7-4c1c-4bfe-9ccb-4fe6398c648d" />
 
 
 ---
