@@ -58,8 +58,7 @@ cd to-do-app-django
 
 python -m venv venv
 venv\Scripts\activate   # On Windows
-
-# OR
+OR
 source venv/bin/activate   # On macOS/Linux
 
 3. Install Dependencies
@@ -81,20 +80,18 @@ Visit: http://127.0.0.1:8000/admin to log in as admin.
 1. Create a new repo on GitHub and push your code
 2. Go to Render.com
 Create a new Web Service
-
 Connect your GitHub repo
 
-Build Command: pip install -r requirements.txt
+Build Command: 
+pip install -r requirements.txt
 
-Start Command: gunicorn todopr.wsgi:application
+Start Command: 
+gunicorn todopr.wsgi:application
 
 Add Environment Variables:
-
 SECRET_KEY
-
 DEBUG=False
 
 Add a file named render.yaml (optional for auto-deploys)
-
 3. Done! Render will host your app and give you a live URL
 
