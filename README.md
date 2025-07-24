@@ -13,7 +13,7 @@ A simple yet functional To-Do list application built using Django. This project 
 - ✅ Logout
 - ✅ Responsive UI with Bootstrap
 - ✅ Secure user session management
-- ✅ Deployed on Render (or Heroku)
+- ✅ Deployed on Render
 
 ---
 
