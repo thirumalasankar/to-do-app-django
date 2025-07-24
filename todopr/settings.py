@@ -29,7 +29,8 @@ SECRET_KEY = 'django-insecure-(i9(8hpcm_(=k$m!m)+^h-u90mwh4e#xcs86+zfp40b0@ztzkd
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']  # For testing. Replace with your Render domain for production.
+
 
 
 # Application definition
@@ -128,5 +129,8 @@ STATIC_URL = 'static/'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 LOGIN_URL = 'login'
+
+STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
+STATIC_URL = '/static/'
 
 django_heroku.settings(locals())
